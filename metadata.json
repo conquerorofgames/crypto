@@ -1,0 +1,9 @@
+{
+  "name": "COG Token", 
+  "symbol": "COG",
+  "uri": "https://raw.githubusercontent.com/conquerorofgames/crypto/main/token_metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
